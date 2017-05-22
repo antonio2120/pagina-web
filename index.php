@@ -6,5 +6,7 @@
 </head>
 <body>
 	<h1>Bienvenido a la web de estudio fotografíco</h1>
+	<h2>Hola mundo</h2>
 </body>
+
 </html>
